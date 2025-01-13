@@ -5,9 +5,9 @@ public class function_encrypt_decrypt {
 
     static int mainMenu(){
         System.out.println("Main menu" +
-        "\n1. Encrypt the text" +
-        "\n2. Decrypt the text" +
-        "\n3. Exit"
+            "\n1. Encrypt the text" +
+            "\n2. Decrypt the text" +
+            "\n3. Exit"
         );
         System.out.print("Enter your choice: ");
         int choice = scan.nextInt();

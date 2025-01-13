@@ -29,10 +29,23 @@ public class function_2dArray {
                 System.out.print("Enter value: ");
                 int value = scan.nextInt();
                 boxes[row][column] = value;
+            }else if(choice == 2){
+                System.out.print("input a row (0-4): ");
+                int show = scan.nextInt();
+                for(int i = 0; i < boxes[show].length; i++){
+                    System.out.print(boxes[show][i] + "     ");
+                }
+            }else if(choice == 3){
+                System.out.print("input a column (0-4): ");
+                int show = scan.nextInt();
+                for(int i = 0; i < boxes.length; i++){
+                    System.out.print(boxes[i][show] + "     ");
+                    System.out.println();
+                }
             }else if(choice == 4){
                 for(int i = 0; i < boxes.length; i++){
                     for(int j = 0; j < boxes.length; j++){
-                    System.out.print(boxes[i][j] + "     ");
+                        System.out.print(boxes[i][j] + "     ");
                     }
                     System.out.println();
                 }
