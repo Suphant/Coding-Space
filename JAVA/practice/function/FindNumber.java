@@ -3,7 +3,7 @@ package practice.function;
 import java.util.Random;
 import java.util.Scanner;
 
-public class function_1 {
+public class FindNumber {
     static Random rand = new Random();
     static Scanner scan = new Scanner(System.in);
 
