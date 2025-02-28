@@ -1,0 +1,8 @@
+Hello 42 world 58!
+Python 100 is 200 fun.
+File 10 handing 90 in Python.
+
+
+123 456 789
+Just a test line!
+Invalid #data 30 40?

@@ -1,0 +1,10 @@
+Line 1: Hello 42 world 58! | Words: | Sum: 100
+Line 2: Python 100 is 200 fun. | Words: | Sum: 300
+Line 3: File 10 handing 90 in Python. | Words: | Sum: 100
+Line 4: 123 456 789 | Words: | Sum: 1368
+Line 5: Just a test line! | Words: | Sum: 0
+Line 6: Invalid #data 30 40? | Words: | Sum: 70
+---------------------------------------------
+Total lines processed: 6
+Total words: []
+Total sum of numbers: 1938
